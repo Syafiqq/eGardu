@@ -1,6 +1,6 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$database = "kelolagardu_db";
+$host = "learning.egardu.app";
+$user = "homestead";
+$pass = "secret";
+$database = "learning.egardu.app";
 ?>
